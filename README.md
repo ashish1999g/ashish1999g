@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish Goyal.
 - 👀 I’m interested in Python coding.
-- 🌱 I’m currently learning DSA.
+- 🌱 I’m currently learning Web Development.
 - 📫 Mail : ashishgoyal201999@gmail.com
 
 <!---
